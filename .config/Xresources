@@ -1,0 +1,5 @@
+urxvt.background: rgb:00/00/00
+urxvt.foreground: rgb:ff/ff/ff
+urxvt.font: xft:Terminus:pixelsize=18
+urxvt.scrollBar: false
+urxvt.internalBorder: 16
